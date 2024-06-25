@@ -10,9 +10,9 @@ def buildDataIca():
     print(dataFrameIca)
 
     #generando graficas de los datos por comuna 
-    dataClearByComuna=dataFrameIca.groupby("comuna")["ica"].mean()
-    plt.figure(figsize=(20,20))
-    dataClearByComuna.plot(kind="bar", color="green")
-    plt.show()
+    #dataClearByComuna=dataFrameIca.groupby("comuna")["ica"].mean()
+    #plt.figure(figsize=(20,20))
+    #dataClearByComuna.plot(kind="bar", color="green")
+    #plt.show()
 
 buildDataIca()    
