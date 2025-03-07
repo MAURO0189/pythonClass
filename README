@@ -1,0 +1,11 @@
+*como ejecutar 
+file cmd 
+py o python -m venv modules
+cd modules 
+cd Scripts 
+activate 
+cd .. 
+cd .. 
+abrir en el editor de texto 
+code .
+
