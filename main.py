@@ -6,10 +6,10 @@ from robot.web_scraper import scrape_data
 from robot.utils import log
 
 
-USERNAME = 'mayepes@sura.com.co'
-PASSWORD = 'Devmaster01*#3589'
-LOGIN_URL = 'https://test-vdr.suramericana.com/'
-DATA_URL = 'https://test-vdr.suramericana.com/home'
+USERNAME = ''
+PASSWORD = ''
+LOGIN_URL = ''
+DATA_URL = ''
 PLATE = 'DDP16C'
 
 def robot():
