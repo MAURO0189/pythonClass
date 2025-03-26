@@ -1,0 +1,41 @@
+ID,Nombre,Marca,Categoría,Precio,Stock,toltal_value
+1,Smartphone Galaxy S23,Samsung,Teléfono,899.99,50,44999.5
+2,Smartphone iPhone 14,Apple,Teléfono,999.99,30,29999.7
+3,Portátil MacBook Pro M2,Apple,Computadora,1999.99,20,39999.8
+4,Portátil Dell XPS 15,Dell,Computadora,1499.99,15,22499.85
+5,"Smart TV OLED 55""",LG,Televisión,1299.99,25,32499.75
+6,"Smart TV QLED 65""",Samsung,Televisión,1599.99,10,15999.9
+7,Tablet iPad Air,Apple,Tablet,599.99,40,23999.6
+8,Tablet Galaxy Tab S8,Samsung,Tablet,649.99,35,22749.65
+9,Consola PlayStation 5,Sony,Consola,499.99,50,24999.5
+10,Consola Xbox Series X,Microsoft,Consola,499.99,45,22499.55
+11,Auriculares AirPods Pro,Apple,Audio,249.99,60,14999.400000000001
+12,Auriculares Bose 700,Bose,Audio,379.99,20,7599.8
+13,Barra de sonido Sonos Beam,Sonos,Audio,449.99,30,13499.7
+14,Reloj Inteligente Apple Watch 8,Apple,Accesorios,399.99,25,9999.75
+15,Reloj Inteligente Galaxy Watch 5,Samsung,Accesorios,349.99,30,10499.7
+16,Cámara Canon EOS R5,Canon,Fotografía,3899.99,10,38999.899999999994
+17,Cámara Sony Alpha A7 IV,Sony,Fotografía,2499.99,15,37499.85
+18,"Monitor Gaming 27"" 240Hz",ASUS,Monitor,599.99,20,11999.8
+19,Teclado Mecánico RGB,Logitech,Periféricos,149.99,50,7499.5
+20,Mouse Gaming Razer Viper,Razer,Periféricos,79.99,60,4799.4
+21,Disco Duro Externo 1TB,Seagate,Almacenamiento,89.99,80,7199.2
+22,Memoria USB 128GB,SanDisk,Almacenamiento,29.99,100,2999.0
+23,Impresora Multifuncional HP,HP,Impresora,199.99,25,4999.75
+24,Router WiFi 6 TP-Link,TP-Link,Redes,129.99,40,5199.6
+25,Smartwatch Fitbit Charge 5,Fitbit,Accesorios,149.99,30,4499.700000000001
+26,Drone DJI Mini 3 Pro,DJI,Drone,799.99,10,7999.9
+27,Proyector 4K UHD,LG,Proyector,999.99,15,14999.85
+28,Parlante Bluetooth JBL Flip 6,JBL,Audio,129.99,50,6499.5
+29,Micrófono HyperX QuadCast,HyperX,Audio,159.99,25,3999.75
+30,Control Remoto Universal Logitech,Logitech,Accesorios,99.99,35,3499.6499999999996
+31,Gimbal Estabilizador DJI OM 5,DJI,Accesorios,159.99,20,3199.8
+32,Kit de Luces LED para Streaming,Neewer,Iluminación,89.99,30,2699.7
+33,Cámara de Seguridad WiFi Xiaomi,Xiaomi,Seguridad,49.99,60,2999.4
+34,Base de Carga Inalámbrica MagSafe,Apple,Accesorios,39.99,45,1799.5500000000002
+35,Disco SSD NVMe 2TB,Western Digital,Almacenamiento,299.99,25,7499.75
+36,Fuente de Poder 750W Corsair,Corsair,Componentes,129.99,20,2599.8
+37,Placa Madre Z790 ASUS,ASUS,Componentes,289.99,15,4349.85
+38,Memoria RAM 32GB DDR5,G.Skill,Componentes,199.99,30,5999.700000000001
+39,Procesador Intel Core i9 13th Gen,Intel,Componentes,599.99,10,5999.9
+40,Procesador AMD Ryzen 9 7950X,AMD,Componentes,599.99,10,5999.9

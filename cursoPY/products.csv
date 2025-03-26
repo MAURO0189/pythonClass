@@ -1,0 +1,41 @@
+ID,Nombre,Marca,Categoría,Precio,Stock
+1,Smartphone Galaxy S23,Samsung,Teléfono,899.99,50
+2,Smartphone iPhone 14,Apple,Teléfono,999.99,30
+3,Portátil MacBook Pro M2,Apple,Computadora,1999.99,20
+4,Portátil Dell XPS 15,Dell,Computadora,1499.99,15
+5,Smart TV OLED 55",LG,Televisión,1299.99,25
+6,Smart TV QLED 65",Samsung,Televisión,1599.99,10
+7,Tablet iPad Air,Apple,Tablet,599.99,40
+8,Tablet Galaxy Tab S8,Samsung,Tablet,649.99,35
+9,Consola PlayStation 5,Sony,Consola,499.99,50
+10,Consola Xbox Series X,Microsoft,Consola,499.99,45
+11,Auriculares AirPods Pro,Apple,Audio,249.99,60
+12,Auriculares Bose 700,Bose,Audio,379.99,20
+13,Barra de sonido Sonos Beam,Sonos,Audio,449.99,30
+14,Reloj Inteligente Apple Watch 8,Apple,Accesorios,399.99,25
+15,Reloj Inteligente Galaxy Watch 5,Samsung,Accesorios,349.99,30
+16,Cámara Canon EOS R5,Canon,Fotografía,3899.99,10
+17,Cámara Sony Alpha A7 IV,Sony,Fotografía,2499.99,15
+18,Monitor Gaming 27" 240Hz,ASUS,Monitor,599.99,20
+19,Teclado Mecánico RGB,Logitech,Periféricos,149.99,50
+20,Mouse Gaming Razer Viper,Razer,Periféricos,79.99,60
+21,Disco Duro Externo 1TB,Seagate,Almacenamiento,89.99,80
+22,Memoria USB 128GB,SanDisk,Almacenamiento,29.99,100
+23,Impresora Multifuncional HP,HP,Impresora,199.99,25
+24,Router WiFi 6 TP-Link,TP-Link,Redes,129.99,40
+25,Smartwatch Fitbit Charge 5,Fitbit,Accesorios,149.99,30
+26,Drone DJI Mini 3 Pro,DJI,Drone,799.99,10
+27,Proyector 4K UHD,LG,Proyector,999.99,15
+28,Parlante Bluetooth JBL Flip 6,JBL,Audio,129.99,50
+29,Micrófono HyperX QuadCast,HyperX,Audio,159.99,25
+30,Control Remoto Universal Logitech,Logitech,Accesorios,99.99,35
+31,Gimbal Estabilizador DJI OM 5,DJI,Accesorios,159.99,20
+32,Kit de Luces LED para Streaming,Neewer,Iluminación,89.99,30
+33,Cámara de Seguridad WiFi Xiaomi,Xiaomi,Seguridad,49.99,60
+34,Base de Carga Inalámbrica MagSafe,Apple,Accesorios,39.99,45
+35,Disco SSD NVMe 2TB,Western Digital,Almacenamiento,299.99,25
+36,Fuente de Poder 750W Corsair,Corsair,Componentes,129.99,20
+37,Placa Madre Z790 ASUS,ASUS,Componentes,289.99,15
+38,Memoria RAM 32GB DDR5,G.Skill,Componentes,199.99,30
+39,Procesador Intel Core i9 13th Gen,Intel,Componentes,599.99,10
+40,Procesador AMD Ryzen 9 7950X,AMD,Componentes,599.99,10
