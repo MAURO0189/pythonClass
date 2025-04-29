@@ -1,0 +1,27 @@
+sports_betting_bot/
+│
+├── config/                      # Configuración del proyecto
+│   └── settings.py              # Rutas, URLs, parámetros globales
+│
+├── data/                        # Archivos guardados (histórico)
+│   ├── raw/                     # Datos sin procesar (ej. HTML, JSON crudo)
+│   ├── processed/               # Datos limpios en CSV o JSON
+│   └── results.db               # (opcional) Base de datos SQLite
+│
+├── scraping/                   # Módulo de scraping
+│   └── scraper.py               # Código para extraer resultados
+│
+├── analysis/                   # Módulo de análisis de datos
+│   ├── data_cleaner.py          # Limpieza y transformación
+│   ├── analyzer.py              # Estadísticas, tendencias, predicciones
+│   └── model.pkl                # (opcional) Modelo ML entrenado
+│
+├── betting/                    # Módulo de apuesta automática o recomendaciones
+│   └── decision_engine.py       # Lógica para decidir si apostar o no
+│
+├── utils/                      # Funciones auxiliares
+│   └── logger.py                # Logs, impresión controlada
+│
+├── main.py                     # Punto de entrada principal
+├── requirements.txt            # Librerías necesarias
+└── README.md
