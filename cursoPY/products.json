@@ -1,0 +1,281 @@
+[
+    {
+        "ID": 1,
+        "Nombre": "Smartphone Galaxy S23",
+        "Marca": "Samsung",
+        "Categor\u00c3\u00ada": "Tel\u00c3\u00a9fono",
+        "Precio": 899.99,
+        "Stock": 50,
+        "Total_value": 44999.5
+    },
+    {
+        "ID": 2,
+        "Nombre": "Smartphone iPhone 14",
+        "Marca": "Apple",
+        "Categor\u00c3\u00ada": "Tel\u00c3\u00a9fono",
+        "Precio": 999.99,
+        "Stock": 30,
+        "Total_value": 29999.7
+    },
+    {
+        "ID": 3,
+        "Nombre": "Port\u00c3\u00a1til MacBook Pro M2",
+        "Marca": "Apple",
+        "Categor\u00c3\u00ada": "Computadora",
+        "Precio": 1999.99,
+        "Stock": 20,
+        "Total_value": 39999.8
+    },
+    {
+        "ID": 4,
+        "Nombre": "Port\u00c3\u00a1til Dell XPS 15",
+        "Marca": "Dell",
+        "Categor\u00c3\u00ada": "Computadora",
+        "Precio": 1499.99,
+        "Stock": 15,
+        "Total_value": 22499.85
+    },
+    {
+        "ID": 5,
+        "Nombre": "Smart TV OLED 55\"",
+        "Marca": "LG",
+        "Categor\u00c3\u00ada": "Televisi\u00c3\u00b3n",
+        "Precio": 1299.99,
+        "Stock": 25,
+        "Total_value": 32499.75
+    },
+    {
+        "ID": 6,
+        "Nombre": "Smart TV QLED 65\"",
+        "Marca": "Samsung",
+        "Categor\u00c3\u00ada": "Televisi\u00c3\u00b3n",
+        "Precio": 1599.99,
+        "Stock": 10,
+        "Total_value": 15999.9
+    },
+    {
+        "ID": 7,
+        "Nombre": "Tablet iPad Air",
+        "Marca": "Apple",
+        "Categor\u00c3\u00ada": "Tablet",
+        "Precio": 599.99,
+        "Stock": 40,
+        "Total_value": 23999.6
+    },
+    {
+        "ID": 8,
+        "Nombre": "Tablet Galaxy Tab S8",
+        "Marca": "Samsung",
+        "Categor\u00c3\u00ada": "Tablet",
+        "Precio": 649.99,
+        "Stock": 35,
+        "Total_value": 22749.65
+    },
+    {
+        "ID": 9,
+        "Nombre": "Consola PlayStation 5",
+        "Marca": "Sony",
+        "Categor\u00c3\u00ada": "Consola",
+        "Precio": 499.99,
+        "Stock": 50,
+        "Total_value": 24999.5
+    },
+    {
+        "ID": 10,
+        "Nombre": "Consola Xbox Series X",
+        "Marca": "Microsoft",
+        "Categor\u00c3\u00ada": "Consola",
+        "Precio": 499.99,
+        "Stock": 45,
+        "Total_value": 22499.55
+    },
+    {
+        "ID": 11,
+        "Nombre": "Auriculares AirPods Pro",
+        "Marca": "Apple",
+        "Categor\u00c3\u00ada": "Audio",
+        "Precio": 249.99,
+        "Stock": 60,
+        "Total_value": 14999.4
+    },
+    {
+        "ID": 12,
+        "Nombre": "Auriculares Bose 700",
+        "Marca": "Bose",
+        "Categor\u00c3\u00ada": "Audio",
+        "Precio": 379.99,
+        "Stock": 20,
+        "Total_value": 7599.8
+    },
+    {
+        "ID": 13,
+        "Nombre": "Barra de sonido Sonos Beam",
+        "Marca": "Sonos",
+        "Categor\u00c3\u00ada": "Audio",
+        "Precio": 449.99,
+        "Stock": 30,
+        "Total_value": 13499.7
+    },
+    {
+        "ID": 14,
+        "Nombre": "Reloj Inteligente Apple Watch 8",
+        "Marca": "Apple",
+        "Categor\u00c3\u00ada": "Accesorios",
+        "Precio": 399.99,
+        "Stock": 25,
+        "Total_value": 9999.75
+    },
+    {
+        "ID": 15,
+        "Nombre": "Reloj Inteligente Galaxy Watch 5",
+        "Marca": "Samsung",
+        "Categor\u00c3\u00ada": "Accesorios",
+        "Precio": 349.99,
+        "Stock": 30,
+        "Total_value": 10499.7
+    },
+    {
+        "ID": 16,
+        "Nombre": "C\u00c3\u00a1mara Canon EOS R5",
+        "Marca": "Canon",
+        "Categor\u00c3\u00ada": "Fotograf\u00c3\u00ada",
+        "Precio": 3899.99,
+        "Stock": 10,
+        "Total_value": 38999.9
+    },
+    {
+        "ID": 17,
+        "Nombre": "C\u00c3\u00a1mara Sony Alpha A7 IV",
+        "Marca": "Sony",
+        "Categor\u00c3\u00ada": "Fotograf\u00c3\u00ada",
+        "Precio": 2499.99,
+        "Stock": 15,
+        "Total_value": 37499.85
+    },
+    {
+        "ID": 18,
+        "Nombre": "Monitor Gaming 27\" 240Hz",
+        "Marca": "ASUS",
+        "Categor\u00c3\u00ada": "Monitor",
+        "Precio": 599.99,
+        "Stock": 20,
+        "Total_value": 11999.8
+    },
+    {
+        "ID": 19,
+        "Nombre": "Teclado Mec\u00c3\u00a1nico RGB",
+        "Marca": "Logitech",
+        "Categor\u00c3\u00ada": "Perif\u00c3\u00a9ricos",
+        "Precio": 149.99,
+        "Stock": 50,
+        "Total_value": 7499.5
+    },
+    {
+        "ID": 20,
+        "Nombre": "Mouse Gaming Razer Viper",
+        "Marca": "Razer",
+        "Categor\u00c3\u00ada": "Perif\u00c3\u00a9ricos",
+        "Precio": 79.99,
+        "Stock": 60,
+        "Total_value": 4799.4
+    },
+    {
+        "ID": 21,
+        "Nombre": "Disco Duro Externo 1TB",
+        "Marca": "Seagate",
+        "Categor\u00c3\u00ada": "Almacenamiento",
+        "Precio": 89.99,
+        "Stock": 80,
+        "Total_value": 7199.2
+    },
+    {
+        "ID": 22,
+        "Nombre": "Memoria USB 128GB",
+        "Marca": "SanDisk",
+        "Categor\u00c3\u00ada": "Almacenamiento",
+        "Precio": 29.99,
+        "Stock": 100,
+        "Total_value": 2999.0
+    },
+    {
+        "ID": 23,
+        "Nombre": "Impresora Multifuncional HP",
+        "Marca": "HP",
+        "Categor\u00c3\u00ada": "Impresora",
+        "Precio": 199.99,
+        "Stock": 25,
+        "Total_value": 4999.75
+    },
+    {
+        "ID": 24,
+        "Nombre": "Router WiFi 6 TP-Link",
+        "Marca": "TP-Link",
+        "Categor\u00c3\u00ada": "Redes",
+        "Precio": 129.99,
+        "Stock": 40,
+        "Total_value": 5199.6
+    },
+    {
+        "ID": 25,
+        "Nombre": "Smartwatch Fitbit Charge 5",
+        "Marca": "Fitbit",
+        "Categor\u00c3\u00ada": "Accesorios",
+        "Precio": 149.99,
+        "Stock": 30,
+        "Total_value": 4499.7
+    },
+    {
+        "ID": 26,
+        "Nombre": "Drone DJI Mini 3 Pro",
+        "Marca": "DJI",
+        "Categor\u00c3\u00ada": "Drone",
+        "Precio": 799.99,
+        "Stock": 10,
+        "Total_value": 7999.9
+    },
+    {
+        "ID": 27,
+        "Nombre": "Proyector 4K UHD",
+        "Marca": "LG",
+        "Categor\u00c3\u00ada": "Proyector",
+        "Precio": 999.99,
+        "Stock": 15,
+        "Total_value": 14999.85
+    },
+    {
+        "ID": 28,
+        "Nombre": "Parlante Bluetooth JBL Flip 6",
+        "Marca": "JBL",
+        "Categor\u00c3\u00ada": "Audio",
+        "Precio": 129.99,
+        "Stock": 50,
+        "Total_value": 6499.5
+    },
+    {
+        "ID": 29,
+        "Nombre": "Micr\u00c3\u00b3fono HyperX QuadCast",
+        "Marca": "HyperX",
+        "Categor\u00c3\u00ada": "Audio",
+        "Precio": 159.99,
+        "Stock": 25,
+        "Total_value": 3999.75
+    },
+    {
+        "ID": 30,
+        "Nombre": "Control Remoto Universal Logitech",
+        "Marca": "Logitech",
+        "Categor\u00c3\u00ada": "Accesorios",
+        "Precio": 99.99,
+        "Stock": 35,
+        "Total_value": 3499.65
+    },
+    {
+        "ID": 31,
+        "Nombre": "Iphone 12",
+        "Marca": "Apple",
+        "Categor\u00eda": "Tel\u00e9fono",
+        "Precio": 999.99,
+        "Stock": 60,
+        "Total_value": 46999.5
+    }
+]
